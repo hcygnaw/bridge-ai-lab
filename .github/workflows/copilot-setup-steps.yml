@@ -1,0 +1,51 @@
+name: Copilot Setup Steps
+
+on:
+  workflow_dispatch:
+
+jobs:
+  copilot-setup-steps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Check out the experiment
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Check the C++ compiler
+        run: g++ --version
+
+      - name: Build the physics engine
+        working-directory: bridge
+        run: python build_engine.py
+
+      - name: Smoke-test the engine without a solution
+        working-directory: bridge/workspace
+        env:
+          BRIDGE_NO_ARCHIVE: "1"
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: |
+          python - <<'PY'
+          import bridge
+          import saboteur
+
+          scenario_count = 0
+          for number in (1, 2, 3, 4, 5, 6, "final"):
+              level = bridge.load_level(number)
+              design = bridge.parse_design(level, {"nodes": [], "members": []})
+              for path in bridge.sample_paths(level):
+                  scenario = bridge.load_json(path)
+                  result, _ = bridge.simulate(level, design, scenario)
+                  assert not result["ok"], "An empty bridge must not pass."
+                  assert not result.get("anomaly"), "Engine reported a physics anomaly."
+                  assert len(result["std_vehicles"]) == len(scenario["vehicles"])
+                  scenario_count += 1
+          assert scenario_count == 16, scenario_count
+          print(f"Engine smoke test passed for {scenario_count} public scenarios.")
+          PY
