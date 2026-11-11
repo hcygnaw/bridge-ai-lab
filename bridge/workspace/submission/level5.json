@@ -1,0 +1,228 @@
+{
+ "nodes": [
+  [
+   -8.845,
+   -0.3689
+  ],
+  [
+   -6.69,
+   -0.47
+  ],
+  [
+   -4.535,
+   -0.2089
+  ],
+  [
+   -2.38,
+   0.32
+  ],
+  [
+   -2.25,
+   0.32
+  ],
+  [
+   -0.25,
+   0.32
+  ],
+  [
+   -1.3,
+   -0.28
+  ],
+  [
+   0.12,
+   0.06
+  ],
+  [
+   21.8791,
+   0.2933
+  ]
+ ],
+ "members": [
+  [
+   "A2",
+   0,
+   "road"
+  ],
+  [
+   0,
+   1,
+   "road"
+  ],
+  [
+   1,
+   2,
+   "road"
+  ],
+  [
+   2,
+   3,
+   "road"
+  ],
+  [
+   "A6",
+   0,
+   "steel"
+  ],
+  [
+   "A5",
+   1,
+   "steel"
+  ],
+  [
+   "A4",
+   2,
+   "steel"
+  ],
+  [
+   "A3",
+   3,
+   "steel"
+  ],
+  [
+   "A0",
+   3,
+   "cable"
+  ],
+  [
+   4,
+   6,
+   "road"
+  ],
+  [
+   6,
+   7,
+   "road"
+  ],
+  [
+   4,
+   5,
+   "steel"
+  ],
+  [
+   6,
+   5,
+   "steel"
+  ],
+  [
+   7,
+   5,
+   "steel"
+  ],
+  [
+   "A1",
+   4,
+   "steel"
+  ],
+  [
+   "A4",
+   4,
+   "hydraulic",
+   "A"
+  ],
+  [
+   "A3",
+   5,
+   "hydraulic",
+   "B"
+  ],
+  [
+   8,
+   "A7",
+   "road"
+  ],
+  [
+   "A8",
+   8,
+   "spring"
+  ]
+ ],
+ "sensors": [
+  {
+   "id": "gc",
+   "type": "gate",
+   "x": -0.18,
+   "dir": "right"
+  },
+  {
+   "id": "gv",
+   "type": "gate",
+   "x": -0.18,
+   "dir": "right",
+   "min_mass": 1500
+  }
+ ],
+ "rules": [
+  {
+   "on": "gc",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "A",
+   "ratio": 1.46,
+   "speed": 13.0,
+   "accel": 105.0
+  },
+  {
+   "on": "gc",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "B",
+   "ratio": 1.52,
+   "speed": 14.696,
+   "accel": 105.0
+  },
+  {
+   "on": "gc",
+   "delay": 1.2,
+   "do": "hyd",
+   "group": "A",
+   "ratio": 1.0,
+   "speed": 4.5,
+   "accel": 16.0
+  },
+  {
+   "on": "gc",
+   "delay": 1.2,
+   "do": "hyd",
+   "group": "B",
+   "ratio": 1.0,
+   "speed": 4.5,
+   "accel": 16.0
+  },
+  {
+   "on": "gv",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "A",
+   "ratio": 1.52,
+   "speed": 14.5,
+   "accel": 85.0
+  },
+  {
+   "on": "gv",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "B",
+   "ratio": 1.64,
+   "speed": 15.0,
+   "accel": 85.0
+  },
+  {
+   "on": "gv",
+   "delay": 1.2,
+   "do": "hyd",
+   "group": "A",
+   "ratio": 1.0,
+   "speed": 4.5,
+   "accel": 16.0
+  },
+  {
+   "on": "gv",
+   "delay": 1.2,
+   "do": "hyd",
+   "group": "B",
+   "ratio": 1.0,
+   "speed": 4.5,
+   "accel": 16.0
+  }
+ ]
+}
