@@ -1,0 +1,17 @@
+{
+  "start_epoch": 1794409186,
+  "deadline_epoch": 1794414586,
+  "snapshot_epoch": 1794414586.0957077,
+  "sha256": {
+    "final_bridge.json": "aa8a0b6cc0233628637969bdcb6625f0c7b4beebaea22a8cc5613c5aae5ad59c",
+    "level1.json": "96fa51f9f1cd70e85178f718fa41bbf0c438facd468fb51bd8977585cdb6bbfe",
+    "level2.json": "488808c5eb2ca388b42b3932da5fb753c719a2da6b53211437b11ea2d9ddceba",
+    "level3.json": "2b46f04eaf10af5c777ad9f8b5b54485f6aff20c6c9e8bf608debf954bcc819c",
+    "level4.json": "09f0b4dad39ca229fec0570c19437bc429a80a03646de120956715972c9f355a",
+    "level5.json": "99bfe9145c25d75066d209c0333dc56e8fad89aaca8b4e7157edad17b9ba6c1e",
+    "level6.json": "062a4d84663a23c4640c5991db48be42b230a9cb81e8ec42dda72d77989446c6",
+    "local_results.json": "201c38da77bb0b4d65894a1c4ebc5262f33ddddaa6e9ce113c9870c038453aeb",
+    "notes.md": "3f7d6821ace3dd7e13ade50197ef0f3ff0c70a08b24ebc8bf3872b50aca1c567",
+    "saboteur.json": "462540bc94ccca7f6b593078b79deb13927512f6d7d3893ed2e411285aea066e"
+  }
+}

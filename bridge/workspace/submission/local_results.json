@@ -1,0 +1,427 @@
+{
+  "verified_epoch": 1794414514.6379566,
+  "levels": {
+    "1": {
+      "ok": true,
+      "cost": 3832.69,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 5.7667
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 6.6833
+            }
+          ],
+          "anomaly": 0,
+          "broken": 5
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 5.7667
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.5
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    },
+    "2": {
+      "ok": true,
+      "cost": 13553.37,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.65
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 8.6167
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    },
+    "3": {
+      "ok": true,
+      "cost": 9745.3,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.4
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.9
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.6333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.3333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.6667
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 8.3333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.65
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 8.5333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.85
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 8.3333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.6
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.3667
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.9333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.9667
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.5167
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    },
+    "4": {
+      "ok": true,
+      "cost": 20158.94,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 7.15
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.7667
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 15.15
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 20.15
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.5333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 12.1833
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 23.55
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 28.15
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    },
+    "5": {
+      "ok": false,
+      "cost": 9908.73,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": false,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 11.1
+            },
+            {
+              "status": 3,
+              "reason": 2,
+              "t": 11.5333
+            }
+          ],
+          "anomaly": 0,
+          "broken": 6
+        },
+        {
+          "ok": false,
+          "vehicles": [
+            {
+              "status": 3,
+              "reason": 2,
+              "t": 6.45
+            },
+            {
+              "status": 3,
+              "reason": 1,
+              "t": 9.3167
+            },
+            {
+              "status": 3,
+              "reason": 1,
+              "t": 14.3167
+            }
+          ],
+          "anomaly": 0,
+          "broken": 6
+        }
+      ]
+    },
+    "6": {
+      "ok": true,
+      "cost": 18662.67,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 11.9333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.4
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 39.3167
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 38.35
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 8.4
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 10.4833
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 18.9333
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 20.4833
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 46.35
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        },
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 9.4833
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 39.4833
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 36.35
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    },
+    "final": {
+      "ok": true,
+      "cost": 25800.54,
+      "error": null,
+      "scenarios": [
+        {
+          "ok": true,
+          "vehicles": [
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 18.4
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 20.3667
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 21.4
+            },
+            {
+              "status": 2,
+              "reason": 0,
+              "t": 22.8167
+            }
+          ],
+          "anomaly": 0,
+          "broken": 0
+        }
+      ]
+    }
+  },
+  "duel": {
+    "bridge_win": true,
+    "sab_win": false,
+    "sab_arrived": true,
+    "anomaly": 0,
+    "broken": 0
+  },
+  "saboteur": {
+    "cost": 4353.08,
+    "mass": 2499.8000001692462
+  }
+}

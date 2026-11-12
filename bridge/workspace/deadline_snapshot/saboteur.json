@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    [
+      0,
+      0.22
+    ],
+    [
+      -0.7,
+      0.22
+    ],
+    [
+      -0.35,
+      1.4
+    ]
+  ],
+  "members": [
+    [
+      0,
+      1,
+      "steel"
+    ],
+    [
+      0,
+      2,
+      "hydraulic",
+      "pulse"
+    ],
+    [
+      1,
+      2,
+      "hydraulic",
+      "pulse"
+    ]
+  ],
+  "wheels": [
+    0,
+    1
+  ],
+  "motor": {
+    "speed": 10,
+    "accel": 4
+  },
+  "sensors": [
+    {
+      "id": "g0",
+      "type": "mygate",
+      "x": 14
+    }
+  ],
+  "rules": [
+    {
+      "on": "g0",
+      "delay": 0,
+      "do": "hyd",
+      "group": "pulse",
+      "ratio": 0.55,
+      "speed": 3,
+      "accel": 5
+    }
+  ],
+  "ballast": [
+    [
+      2,
+      2211.834981
+    ]
+  ]
+}
