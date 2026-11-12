@@ -1,0 +1,18 @@
+{
+  "start": 1794410187,
+  "deadline": 1794415587,
+  "snapshot_started": 1794415587.0217643,
+  "files": {
+    "level1.json": "a8150cdb4c1af3dbe9bae725cff44de432af90317a64e5df8f8404c10dab99c8",
+    "level2.json": "35bdfebd013dcc21d4a9159a28144052d10e88bafe39c98aece4a041404940c6",
+    "level3.json": "c6a022b641686e98d65bdf1d065dfad9f8f25d5e6f6ab9505b48f6239731ba9e",
+    "level4.json": "84ada7293342d331531dcbf934be9b89262d8f329ca8d9545c20635f9e624d61",
+    "level5.json": "2a3e51a6a5b63c0cb368de9d63e60c3cad686df865cd03b0a1c0b2ecd4a6f3d7",
+    "level6.json": "b001dec24f260e581be6693d487525f7ae45d445be2a6e0327f504fb94790fd0",
+    "final_bridge.json": "3c34bec4aa393820ec2a652a47cd15431ef0b528a8c9e3a75904652fd08cb65c",
+    "saboteur.json": "c4ffaf47e23ea0c38f8ab459d10112eed1534c842afa9fc446ec3386b32d8664",
+    "notes.md": "f1f57a474a1066ce2aaeafc2ff8d4ca56cd00a2a55e55658cc183a50f3f38cfa"
+  },
+  "missing": [],
+  "snapshot_completed": 1794415587.027734
+}
