@@ -1,0 +1,16 @@
+{
+  "start_epoch": 1794410066,
+  "deadline_epoch": 1794415466,
+  "snapshot_epoch": 1794415466.1121888,
+  "files": {
+    "final_bridge.json": "e37a71266267bc0f4f0be6d102cacc5a8e257a18271ad944a0eab0b72550b5f1",
+    "level1.json": "73e2596a7b4956d43ba21f232cf87c243af12e6cfe4108fc3c7129b11e3973b8",
+    "level2.json": "4e655527bd8535fabffde8ef2d4ff6f914aac8e6056e2ed2ba95bcc9ba34932c",
+    "level3.json": "176092bef54953b147462a3eb5a64dadbfa79b1aba35a5004bb828c0a403ceb8",
+    "level4.json": "62102a1354b5c8615c621d740499edb45a832c428af3969cd51d85a6cd6d1060",
+    "level5.json": "7400bbcbe6eff8ae1725df5cee856d459775d264805ab2cf07c0dc45c735dff2",
+    "level6.json": "314d06d3d4f1556ba7dbdb6c4b6186b52190cfee665497137be3f6ec6c3af948",
+    "notes.md": "afa227a136c7abecc4e063d1ae4ea4a5577ee4b250f1fb9bc6ccb181cab0d77d",
+    "saboteur.json": "e578c452929ae2b71695e2bfefb2ee95ea4587b76ef4d424f179af3936e3c65d"
+  }
+}

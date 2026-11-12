@@ -1,0 +1,195 @@
+{
+  "nodes": [
+    [
+      -9,
+      0.21
+    ],
+    [
+      -7.2,
+      0.35
+    ],
+    [
+      -7,
+      0.0
+    ],
+    [
+      -5,
+      0.0
+    ],
+    [
+      -7.08,
+      0.3
+    ]
+  ],
+  "members": [
+    [
+      "A2",
+      0,
+      "road"
+    ],
+    [
+      0,
+      1,
+      "road"
+    ],
+    [
+      "A6",
+      0,
+      "steel"
+    ],
+    [
+      "A5",
+      1,
+      "steel"
+    ],
+    [
+      2,
+      3,
+      "road"
+    ],
+    [
+      2,
+      4,
+      "road"
+    ],
+    [
+      4,
+      3,
+      "steel"
+    ],
+    [
+      "A4",
+      2,
+      "hydraulic",
+      "arms"
+    ],
+    [
+      "A3",
+      3,
+      "hydraulic",
+      "arms"
+    ],
+    [
+      "A5",
+      2,
+      "hydraulic",
+      "launch"
+    ],
+    [
+      "A4",
+      3,
+      "hydraulic",
+      "launch"
+    ]
+  ],
+  "sensors": [
+    {
+      "id": "p",
+      "type": "plate",
+      "member": 4
+    },
+    {
+      "id": "heavy",
+      "type": "gate",
+      "x": -10,
+      "dir": "right",
+      "min_mass": 1500
+    }
+  ],
+  "lights": [
+    {
+      "id": "queue",
+      "x": -12,
+      "dir": "right",
+      "init": "green"
+    },
+    {
+      "id": "load",
+      "x": -4.93,
+      "dir": "right",
+      "init": "red"
+    },
+    {
+      "id": "heavy_load",
+      "x": -4.83,
+      "dir": "right",
+      "init": "green"
+    }
+  ],
+  "rules": [
+    {
+      "on": "p",
+      "delay": 0,
+      "do": "light",
+      "light": "queue",
+      "state": "red"
+    },
+    {
+      "on": "p",
+      "delay": 2,
+      "do": "hyd",
+      "group": "launch",
+      "ratio": 1.5,
+      "speed": 8,
+      "accel": 40
+    },
+    {
+      "on": "p",
+      "delay": 2,
+      "do": "light",
+      "light": "load",
+      "state": "green"
+    },
+    {
+      "on": "p",
+      "delay": 4,
+      "do": "hyd",
+      "group": "launch",
+      "ratio": 1,
+      "speed": 0.8,
+      "accel": 1.5
+    },
+    {
+      "on": "p",
+      "delay": 5,
+      "do": "light",
+      "light": "load",
+      "state": "red"
+    },
+    {
+      "on": "p",
+      "delay": 7.5,
+      "do": "light",
+      "light": "queue",
+      "state": "green"
+    },
+    {
+      "on": "heavy",
+      "delay": 0,
+      "do": "light",
+      "light": "load",
+      "state": "green"
+    },
+    {
+      "on": "heavy",
+      "delay": 0,
+      "do": "light",
+      "light": "heavy_load",
+      "state": "red"
+    },
+    {
+      "on": "p",
+      "delay": 2,
+      "do": "light",
+      "light": "heavy_load",
+      "state": "green"
+    },
+    {
+      "on": "p",
+      "delay": 5,
+      "do": "light",
+      "light": "heavy_load",
+      "state": "green"
+    }
+  ]
+}
