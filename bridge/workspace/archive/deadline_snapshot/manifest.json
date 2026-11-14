@@ -1,0 +1,42 @@
+{
+  "deadline_epoch": 1794489917,
+  "captured_epoch": 1794489917.0425131,
+  "files": {
+    "level1.json": {
+      "sha256": "bf3535ebfe83ca33417e4e9794a4778610b266de090a1aba86cf4862a517a63b",
+      "bytes": 1535
+    },
+    "level2.json": {
+      "sha256": "58b2bcd51ff61f86a916f10cbf48536dd5cbd65344b3160a7117c6df442c3eb1",
+      "bytes": 4299
+    },
+    "level3.json": {
+      "sha256": "6b21ea689667b0577f22949ee048d85332b5cb6feab05227d9aec033611db7da",
+      "bytes": 3870
+    },
+    "level4.json": {
+      "sha256": "fcb0e12345838bdd1a9f45d7d38fc1a3b344013c170e50b13d0eece22f5dfe89",
+      "bytes": 5435
+    },
+    "level5.json": {
+      "sha256": "9027dabfa022e1f6878b2d70f05b329c4584f532791cf74e28c5a6a67f11c201",
+      "bytes": 2308
+    },
+    "level6.json": {
+      "sha256": "58171ac93bac6f517a6607af7ed9e31d339b0240bdd7085b1bf59af652d6929c",
+      "bytes": 8354
+    },
+    "final_bridge.json": {
+      "sha256": "757a43e085912829bedd5a1abf61a84f74d3db2324fd3e5500d364f8c2ffc041",
+      "bytes": 4117
+    },
+    "saboteur.json": {
+      "sha256": "31e3f9e2e3548a2567f6e35abcf496b3c2fa1ead8119255b98fdacca4d74bd20",
+      "bytes": 996
+    },
+    "notes.md": {
+      "sha256": "c80e875f48ca514f0112e7fc1eb8d6500bebd97d9f457d1f3ac57a01e3a8a34f",
+      "bytes": 5246
+    }
+  }
+}
