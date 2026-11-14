@@ -1,0 +1,183 @@
+{
+ "nodes": [
+  [
+   0.0,
+   0.22
+  ],
+  [
+   -2.8,
+   0.22
+  ],
+  [
+   -1.4,
+   1.45
+  ],
+  [
+   -0.5,
+   0.9
+  ],
+  [
+   -2.3,
+   0.9
+  ],
+  [
+   -1.4,
+   0.22
+  ]
+ ],
+ "members": [
+  [
+   0,
+   1,
+   "steel"
+  ],
+  [
+   0,
+   2,
+   "steel"
+  ],
+  [
+   1,
+   2,
+   "steel"
+  ],
+  [
+   0,
+   3,
+   "steel"
+  ],
+  [
+   3,
+   2,
+   "steel"
+  ],
+  [
+   1,
+   4,
+   "steel"
+  ],
+  [
+   4,
+   2,
+   "steel"
+  ],
+  [
+   3,
+   4,
+   "steel"
+  ],
+  [
+   4,
+   5,
+   "steel"
+  ],
+  [
+   2,
+   5,
+   "hydraulic",
+   "H"
+  ]
+ ],
+ "wheels": [
+  0,
+  1,
+  5
+ ],
+ "ballast": [
+  [
+   5,
+   1710
+  ]
+ ],
+ "motor": {
+  "speed": 10.0,
+  "accel": 4.0
+ },
+ "sensors": [
+  {
+   "id": "g0",
+   "type": "mygate",
+   "x": 4.0
+  },
+  {
+   "id": "g1",
+   "type": "mygate",
+   "x": 11.0
+  },
+  {
+   "id": "g2",
+   "type": "mygate",
+   "x": 18.0
+  },
+  {
+   "id": "gend",
+   "type": "mygate",
+   "x": 23.5
+  }
+ ],
+ "rules": [
+  {
+   "on": "g0",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 1.65,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "g0",
+   "delay": 0.35,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 0.9,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "g1",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 1.65,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "g1",
+   "delay": 0.35,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 0.9,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "g2",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 1.65,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "g2",
+   "delay": 0.35,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 0.9,
+   "speed": 3.0,
+   "accel": 5.0
+  },
+  {
+   "on": "gend",
+   "delay": 0.0,
+   "do": "hyd",
+   "group": "H",
+   "ratio": 0.85,
+   "speed": 3.0,
+   "accel": 5.0
+  }
+ ]
+}
