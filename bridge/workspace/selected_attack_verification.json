@@ -1,0 +1,23 @@
+[
+ {
+  "bridge": "final_baseline.json",
+  "attack_win": true,
+  "arrived": true,
+  "anomaly": 0,
+  "arrival": 7.45
+ },
+ {
+  "bridge": "final_defense_anchor.json",
+  "attack_win": true,
+  "arrived": true,
+  "anomaly": 0,
+  "arrival": 6.3167
+ },
+ {
+  "bridge": "final_defense_root.json",
+  "attack_win": true,
+  "arrived": true,
+  "anomaly": 0,
+  "arrival": 5.9333
+ }
+]

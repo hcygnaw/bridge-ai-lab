@@ -1,0 +1,214 @@
+{
+ "1": {
+  "ok": true,
+  "cost": 2943.42,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     9.85
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     10.8333
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     9.85,
+     23.8833
+    ]
+   }
+  ]
+ },
+ "2": {
+  "ok": true,
+  "cost": 12254.17,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     7.65
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     8.6167
+    ]
+   }
+  ]
+ },
+ "3": {
+  "ok": true,
+  "cost": 8493.62,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     7.4,
+     7.9,
+     9.6333,
+     10.3333,
+     10.6667
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     8.3333,
+     9.65,
+     8.5333,
+     9.85
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     8.3333,
+     7.6,
+     9.3667,
+     9.9333,
+     10.9667,
+     10.5167
+    ]
+   }
+  ]
+ },
+ "4": {
+  "ok": true,
+  "cost": 17011.74,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 1,
+    "arrivals": [
+     6.9,
+     30.55,
+     29.8333,
+     39.8333
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 1,
+    "arrivals": [
+     8.75,
+     11.9,
+     38.55,
+     37.8333
+    ]
+   }
+  ]
+ },
+ "5": {
+  "ok": true,
+  "cost": 9849.34,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 2,
+    "arrivals": [
+     18.65,
+     29.2333
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 2,
+    "arrivals": [
+     19.6833,
+     28.0833,
+     37.25
+    ]
+   }
+  ]
+ },
+ "6": {
+  "ok": true,
+  "cost": 18241.56,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     11.9167,
+     9.4,
+     35.1667,
+     34.3333
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     8.4,
+     10.4667,
+     18.9167,
+     20.4667,
+     42.3333
+    ]
+   },
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     9.4667,
+     35.4,
+     32.3333
+    ]
+   }
+  ]
+ },
+ "final": {
+  "ok": true,
+  "cost": 25953.28,
+  "scenarios": [
+   {
+    "ok": true,
+    "anomaly": 0,
+    "broken": 0,
+    "arrivals": [
+     18.4,
+     20.3667,
+     21.4,
+     22.8167
+    ]
+   }
+  ]
+ },
+ "attack": {
+  "cost": 5028.66,
+  "mass": 2499.9999999999995,
+  "arrived": true,
+  "anomaly": 0,
+  "bridge_win": true,
+  "arrival": 5.7167
+ }
+}

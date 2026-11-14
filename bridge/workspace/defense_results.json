@@ -1,0 +1,38 @@
+[
+ {
+  "step": 4,
+  "lower": 0,
+  "cost": 24532.75,
+  "bridge_wins": 46,
+  "attacker_wins": 0,
+  "maximum_broken": 0,
+  "tests": 46
+ },
+ {
+  "step": 4,
+  "lower": 3,
+  "cost": 25372.75,
+  "bridge_wins": 46,
+  "attacker_wins": 0,
+  "maximum_broken": 0,
+  "tests": 46
+ },
+ {
+  "step": 3,
+  "lower": 0,
+  "cost": 25072.75,
+  "bridge_wins": 46,
+  "attacker_wins": 0,
+  "maximum_broken": 0,
+  "tests": 46
+ },
+ {
+  "step": 3,
+  "lower": 3,
+  "cost": 25912.75,
+  "bridge_wins": 46,
+  "attacker_wins": 0,
+  "maximum_broken": 0,
+  "tests": 46
+ }
+]

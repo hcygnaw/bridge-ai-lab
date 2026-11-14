@@ -1,0 +1,954 @@
+[
+ {
+  "case": 0,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 1,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 2,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 3,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 4,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 5,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 6,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 7,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 8,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 9,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 10,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 11,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 12,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 13,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 14,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 15,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 16,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 17,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 18,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 19,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 20,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 21,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 22,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 23,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 24,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 25,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 26,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 27,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 28,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 29,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 30,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 31,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 32,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 33,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 34,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 35,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 36,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 37,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 38,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 39,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 40,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 41,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 42,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 43,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 44,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 45,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 46,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 47,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 48,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 49,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 50,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 51,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 52,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 53,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 54,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 55,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 56,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 57,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 58,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 59,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 60,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 61,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 62,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 63,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 64,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 65,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 66,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 67,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 68,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 69,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 70,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 71,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 72,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 73,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 74,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 75,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 76,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 77,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 78,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 79,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 80,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 81,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 82,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 83,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 84,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 85,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 86,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 87,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 88,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 89,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 90,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 91,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 92,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 93,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 94,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 95,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 96,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 97,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 98,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 99,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 100,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 101,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 102,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 103,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 104,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 105,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 106,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 107,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 108,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 109,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 110,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 111,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 112,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 113,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 114,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 115,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 116,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 117,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 118,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 119,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 120,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 121,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 122,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 123,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 124,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 125,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 126,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 127,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 128,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 129,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 130,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 131,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 132,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 133,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 134,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ },
+ {
+  "case": 135,
+  "bridge_win": true,
+  "sab_win": false,
+  "arrived": true,
+  "broken": 0
+ }
+]

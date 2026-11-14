@@ -1,0 +1,326 @@
+[
+ {
+  "attack": {
+   "width": 1,
+   "height": 0.1,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 17
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "5.6167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 1,
+   "height": 0.12,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 17
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "5.6167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 1,
+   "height": 0.2,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 17
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1033 SENSOR 0 0",
+   "4.1042 ACT hyd 100 2.000",
+   "5.6167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 1,
+   "height": 0.3,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 14
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1033 SENSOR 0 0",
+   "4.1042 ACT hyd 100 2.000",
+   "5.6167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 1.5,
+   "height": 0.2,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 21
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "5.6667 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 2,
+   "height": 0.2,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 20
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 1,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "4.2000 BREAK 56 -146937",
+   "5.7167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 2,
+   "height": 0.3,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 18
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 0,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "5.7167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 2.5,
+   "height": 0.2,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 18
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 1,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "4.2167 BREAK 56 -150775",
+   "5.7667 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 2.5,
+   "height": 0.3,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 13
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 1,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1025 SENSOR 0 0",
+   "4.1033 ACT hyd 100 2.000",
+   "4.2167 BREAK 56 -144976",
+   "5.7667 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 3,
+   "height": 0.2,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 17
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 1,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1017 SENSOR 0 0",
+   "4.1025 ACT hyd 100 2.000",
+   "4.2333 BREAK 56 -143868",
+   "5.8167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ },
+ {
+  "attack": {
+   "width": 3,
+   "height": 0.3,
+   "gate": 22,
+   "sab_arrived": true,
+   "sab_win": true,
+   "bridge_win": false,
+   "anomaly": 0,
+   "broken": 14
+  },
+  "bridge_win": true,
+  "sab_win": false,
+  "broken": 1,
+  "events": [
+   "0.5008 VSTART 0",
+   "4.1017 SENSOR 0 0",
+   "4.1025 ACT hyd 100 2.000",
+   "4.2000 BREAK 56 -146266",
+   "5.8167 VARRIVE 0",
+   "12.0000 VSTART 1",
+   "13.0000 VSTART 2",
+   "14.0008 VSTART 3",
+   "15.0008 VSTART 4",
+   "18.4000 VARRIVE 1",
+   "20.3667 VARRIVE 2",
+   "21.4000 VARRIVE 3",
+   "22.8167 VARRIVE 4"
+  ]
+ }
+]

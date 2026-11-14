@@ -1,0 +1,120 @@
+{
+ "nodes": [
+  [
+   2.142857,
+   -0.832653
+  ],
+  [
+   4.285714,
+   -1.387755
+  ],
+  [
+   6.428571,
+   -1.665306
+  ],
+  [
+   8.571429,
+   -1.665306
+  ],
+  [
+   10.714286,
+   -1.387755
+  ],
+  [
+   12.857143,
+   -0.832653
+  ]
+ ],
+ "members": [
+  [
+   "A0",
+   0,
+   "road"
+  ],
+  [
+   0,
+   1,
+   "road"
+  ],
+  [
+   1,
+   2,
+   "road"
+  ],
+  [
+   2,
+   3,
+   "road"
+  ],
+  [
+   3,
+   4,
+   "road"
+  ],
+  [
+   4,
+   5,
+   "road"
+  ],
+  [
+   5,
+   "A2",
+   "road"
+  ]
+ ],
+ "lights": [
+  {
+   "id": "L",
+   "x": -1,
+   "dir": "right",
+   "init": "red"
+  },
+  {
+   "id": "R",
+   "x": 16,
+   "dir": "left",
+   "init": "red"
+  }
+ ],
+ "sensors": [
+  {
+   "id": "s",
+   "type": "start"
+  },
+  {
+   "id": "pL",
+   "type": "plate",
+   "member": 0
+  }
+ ],
+ "rules": [
+  {
+   "on": "s",
+   "delay": 4.5,
+   "do": "light",
+   "light": "L",
+   "state": "green"
+  },
+  {
+   "on": "s",
+   "delay": 4.5,
+   "do": "light",
+   "light": "R",
+   "state": "green"
+  },
+  {
+   "on": "pL",
+   "delay": 0,
+   "do": "light",
+   "light": "L",
+   "state": "red"
+  },
+  {
+   "on": "pL",
+   "delay": 12,
+   "do": "light",
+   "light": "L",
+   "state": "green"
+  }
+ ]
+}
