@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    [-5.83563, -0.5246],
+    [-5.3084, -2.0725],
+    [-7.7368, -1.1111],
+    [-6.2708, -1.729]
+  ],
+  "members": [
+    ["A0", 0, "steel"],
+    ["A1", 1, "steel"],
+    [0, 1, "steel"],
+    [0, 2, "steel"],
+    [2, 3, "road"],
+    [0, 3, "steel"],
+    [3, 1, "road"],
+    ["A5", 3, "hydraulic", "pad"]
+  ],
+  "sensors": [
+    {"id": "g", "type": "gate", "x": -6.84781, "dir": "right"}
+  ],
+  "rules": [
+    {"on": "g", "delay": 0, "do": "hyd", "group": "pad", "ratio": 2, "speed": 13.73809, "accel": 120},
+    {"on": "g", "delay": 0.92216, "do": "hyd", "group": "pad", "ratio": 1, "speed": 5.5978, "accel": 33.51687}
+  ]
+}
