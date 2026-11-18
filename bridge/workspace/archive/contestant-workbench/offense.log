@@ -1,0 +1,6 @@
+mock suite 24 (1, 11, 4, 0) {'speed': 8.484689052806644, 'accel': 4}
+mock suite 24 (1, 15, 4, 0) {'speed': 7.989032602450559, 'accel': 4}
+mock suite 24 (3, 5, 12, 0) {'speed': 9.025686117899896, 'accel': 4}
+mock suite 24 (3, 13, 12, 0) {'speed': 7.508510834311288, 'accel': 4}
+mock suite 24 (3, 15, 12, 0) {'speed': 8.917712193513317, 'accel': 4}
+mock suite 24 (5, 5, 20, 0) {'speed': 8.116459611618723, 'accel': 4}
